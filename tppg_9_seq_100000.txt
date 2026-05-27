@@ -1,6 +1,7 @@
 N = 100000
 sequence_count = 2734
 sequence_type = directed root-to-leaf paths in the final reduced graph
+Note: This encodes the graph information in a digestable sequential format. 
 
 4 -> 12 -> 18 -> 30 -> 60 -> 150 -> 180 -> 240 -> 270 -> 600 -> 810 -> 1620 -> 3000 -> 4050 -> 4800 -> 9000 -> 9720 -> 15360 -> 21600 -> 23040 -> 33750
 4 -> 12 -> 18 -> 30 -> 60 -> 150 -> 180 -> 240 -> 270 -> 600 -> 810 -> 1620 -> 3000 -> 4050 -> 4800 -> 9000 -> 9720 -> 15360 -> 78510
